@@ -1,0 +1,9 @@
+requests
+goose3
+urllib3
+numpy
+spacy
+nltk
+scikit-learn
+pandas
+seaborn
